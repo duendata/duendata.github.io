@@ -6,16 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Duendata
+email: john@duendata.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  Duendata is about the appeal of stories told through changes in numbers.
+baseurl: /thoughts # the subpath of your site, e.g. /blog
+url: "http://duendata.com" # the base hostname & protocol for your site
+twitter_username: @duendata
+github_username:  duendata
 
 # Build settings
 markdown: kramdown
