@@ -1,2 +1,0 @@
-# duendata.github.io
-Duendata
