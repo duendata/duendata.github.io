@@ -47,9 +47,11 @@ img {
     vertical-align: middle;
 }
 
-.logo {
+#logo {
   max-height: 30 px;
-  width: 100%
+  width: 100%;
+  float: left;
+  text-align: left;
 }
 
 /**
