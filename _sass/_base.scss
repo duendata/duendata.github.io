@@ -47,10 +47,12 @@ img {
     vertical-align: middle;
 }
 
-logo {
+#logo img{
   max-height: 30 px;
+  max-width: 100%;
   padding: 10 px 0 px 0 px 0 px;
   float: left;
+  display: block;
 }
 
 /**
