@@ -10,7 +10,7 @@ title: Duendata
 email: john@duendata.com
 description: > # this means to ignore newlines until "baseurl:"
   Duendata is about the appeal of stories told through changes in numbers.
-source: duendata.github.io 
+baseurl: /thoughts # the subpath of your site, e.g. /blog
 url: "http://duendata.com" # the base hostname & protocol for your site
 twitter_username: duendata
 github_username:  duendata
