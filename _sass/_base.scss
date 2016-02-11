@@ -45,16 +45,9 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
-    object-fit: contain;
 }
 
-#logo{
-  height: 30 px;
-  width: 50 px;
-  padding: 10 px 0 px 0 px 0 px;
-  float: left;
-  display: block;
-}
+
 
 /**
  * Figures
@@ -170,7 +163,6 @@ pre {
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
-    height: 30 px;
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
